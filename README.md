@@ -1,2 +1,2 @@
 # Pac-Men-Factory
-An assignment we made in class, now being shown on my portfolio.
+An assignment we made in class, now being shown in my portfolio.
